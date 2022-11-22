@@ -1,9 +1,9 @@
 {
   "projects": {
-    "default": "demers-tech"
+    "default": "looper"
   },
   "targets": {
-    "demers-tech": {
+    "looper": {
       "hosting": {
         "demerstech": [
           "looper-1230984"
