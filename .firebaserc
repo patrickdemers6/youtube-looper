@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "demers-tech"
+  },
+  "targets": {
+    "demers-tech": {
+      "hosting": {
+        "demerstech": [
+          "looper-1230984"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
