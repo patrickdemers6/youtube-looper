@@ -70,7 +70,7 @@ function App() {
     let exit = false;
     (async () => {
       while (!exit) {
-        if ((await getTimeLeftInVideo()) < 2) {
+        if ((await getTimeLeftInVideo()) < 4) {
           await backToBeginning();
         }
         await sleep(500);
